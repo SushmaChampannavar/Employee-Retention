@@ -50,7 +50,7 @@ this suggest that the lack of early career progression could be a significant dr
 also in last category (31-40yrs): there are only 0.23% employees fall into it with low attrition rate.indicating these employees have high level of commitment to the company.
 it may be due to nearing of retirement or being in a stable or long term role.
 
-### recommendations
+### RECOMMENDATION
 - Regularly review compensation adjustments and maintain pay equity.
 Focus on retention in high income departments like sales and R&D as they generate highest income.
 Focus on retention efforts in HR and R&D as they have lower working years.
@@ -58,7 +58,7 @@ Introduce employee engagement programs, learning opportunities and career develo
 For the department on positive side recognize and support to maintain employee satisfaction and retention through recognition program, leadership and further opportunities.
 Conduct employee survey and understand the reasons behind the attrition.
 
-### conclusion
+### CONCLUSION
 In conclusion, the analysis highlights that factors such as job satisfaction, competitive compensation, career growth, and work life balance are crucial to retaining employees. By focusing on these areas, the organization can effectively reduce turnover and enhance overall employee engagement and performance
 
 
