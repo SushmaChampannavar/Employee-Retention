@@ -7,6 +7,13 @@ This involves exploring various variables such as job satisfaction, compensation
 So this requires collecting data, cleaning, exploring and finally creating dashboard using Excel, SQL, Power BI and Tableau.
 
 ### KEY FEATURES
+- Department wise analysis: analysing department wise attrition rate
+- Monthly income stats: analysing the relation between monthly income and attrtion rate.
+- Average working years: analysing the imapct of average working years on atrrition rate.
+- Worklife balance: analysing the worklife balance based on the different job roles.
+- Analysing the atrrion rate on the factor like years since last promotion. 
+- Intractive dashboard: user-driven exploration with visual data representation.
+- Data-driven recommendation:actionable insights for retaining employees and the talent and increasing the turnover of the comapny.
 
 ### TOOLS AND TECHNIQUES:
 -DATA PREPARATION
